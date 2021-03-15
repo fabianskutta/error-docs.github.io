@@ -13,3 +13,5 @@
 <li><a href="https://error-pages.fabian.lol/request-uri_too_long.html">request-uri_too_long.html</a></li>
 <li><a href="https://error-pages.fabian.lol/unauthorized.html">unauthorized.html</a></li>
 <li><a href="https://error-pages.fabian.lol/unsupported_media_type.html">unsupported_media_type.html</a></li>
+
+<li><a href="https://error-pages.fabian.lol/coming_soon.html">coming_soon.html</a></li>
