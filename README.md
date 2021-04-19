@@ -1,8 +1,8 @@
-# error-pages
+# error pages
 
 ![page_pic](https://cdn.fabian.lol/error-pages.fabian.lol/not_found.png)
 
-## Pages
+## 📃 Pages
 <li><a href="https://error-pages.fabian.lol/bad_gateway.html">bad_gateway.html</a></li>
 <li><a href="https://error-pages.fabian.lol/bad_request.html">bad_request.html</a></li>
 <li><a href="https://error-pages.fabian.lol/forbidden.html">forbidden.html</a></li>
@@ -19,3 +19,7 @@
 <li><a href="https://error-pages.fabian.lol/unsupported_media_type.html">unsupported_media_type.html</a></li>
 
 <li><a href="https://error-pages.fabian.lol/coming_soon.html">coming_soon.html</a></li>
+
+## ⚙ Technologies
+- HTML5
+- CSS3
