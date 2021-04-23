@@ -32,6 +32,20 @@ h3 {
     font-weight: 400;
 }
 
+a {
+    color: rgb(199, 199, 199);
+    text-decoration: none;
+}
+
+a:hover{
+    color: #FD4D4D;
+    -webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    transition: all .3s ease-in
+}
+
 /*--------------------------------------------------*/
 /*3. Container*/
 /*--------------------------------------------------*/
@@ -42,6 +56,14 @@ h3 {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
+}
+
+.footer{
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    bottom: 0;
 }
 
 /*--------------------------------------------------*/
